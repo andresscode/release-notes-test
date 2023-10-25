@@ -7,6 +7,6 @@ changelog:
     - title: Exciting New Features 🎉
       labels:
         - feat
-    - title: Bug fixes
+    - title: Bug fixes 🐞
       labels:
         - fix
